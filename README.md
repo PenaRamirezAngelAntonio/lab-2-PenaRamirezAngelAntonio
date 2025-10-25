@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Peña Ramírez Ángel Antonio
+- Matrícula: S25018125
+- Fecha: 24 de octubre del 2025
 
 ## 🎯 Objetivos
 
@@ -16,7 +16,7 @@
 - Comprender la precedencia de los operadores aritméticos; Olvidar esta precedencia puede dar lugar a errores lógicos en los programas.
 - Este laboratorio le brinda la práctica de usar declaraciones simples de toma de decisiones para controlar las acciones de un programa de computadora.
 
-## ¡Recuerda
+## ¡Recuerda!
 
 ```cmd
 git add -A
